@@ -1,2 +1,2 @@
 # EZCalculator - SUPER ALPHA
-First attempt att creating something in Android Studio.
+First attempt at creating something in Android Studio.
